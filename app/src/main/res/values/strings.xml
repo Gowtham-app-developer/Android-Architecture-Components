@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieSearchApplication</string>
+    <string name="no_internet">No Internet connection.</string>
+    <string name="no_result">No Results Found.</string>
+    <string name="no_history">No History Found.</string>
+    <string name="search_hint">Search movie (min 2 letter)</string>
+    <string name="enter_some_text">Enter movie name to search.</string>
+    <string name="tab_search_movie">Search Movie</string>
+    <string name="tab_history">History</string>
+</resources>
